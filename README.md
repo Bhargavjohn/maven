@@ -1,2 +1,0 @@
-# pranithdev
- Learning Git
